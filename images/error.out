@@ -1,0 +1,1 @@
+ASSERTION FAILED: Command Drag (WED_HandleToolBase.cpp:360) started while command Create Ortho Image (WED_Orthophoto.cpp:133) still active. (AssertUtils.cpp:72.)
