@@ -1,0 +1,8 @@
+SUAS: Airport name is all upper case. (warning only)
+SUAS: The airport name should not include the ICAO code. Use the common name only. (warning only)
+SUHP: Airport name is all upper case. (warning only)
+SUHP: The airport name should not include the ICAO code. Use the common name only. (warning only)
+SUTE: Airport name is all upper case. (warning only)
+SUTE: The airport name should not include the ICAO code. Use the common name only. (warning only)
+SUWT: Airport name is all upper case. (warning only)
+SUWT: The airport name should not include the ICAO code. Use the common name only. (warning only)
